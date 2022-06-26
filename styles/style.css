@@ -1,8 +1,14 @@
+/* test comment for hunk 3 */
 
 * {
     box-sizing: border-box;
 }
 
 body {
-    background-color: rgb(230, 230, 230);
+    background-color: white;
 }
+
+
+/* test comment for hunk */
+
+/* test comment for hunk 2 */
